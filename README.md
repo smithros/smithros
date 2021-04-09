@@ -1,15 +1,17 @@
 ### Hi there, I'm [smithros!](https://github.com/smithros) 👋. 
 
 I'm a Java Developer from Kiev. Passionate about self-improvement and focused forward.
-- 🔭 I’m currently working on [booknet](https://github.com/smithros/booknet).
-- 🌱 I’m learning Spring stack, TypeScript and Angular.
+- 🌱 I’m learning Java every day and try to use it more professionally and effectively.
 - 🤹🏽 I'm studying at the university.
+- 🔭 Working as a software engineer.
 
 ### Github stats:
-![Github stats](https://github-readme-stats.vercel.app/api?username=smithros&theme=radical&show_icons=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smithros&theme=radical&layout=compact)
-
-<br />
+![Github stats](https://github-readme-stats.vercel.app/api?username=smithros&theme=calm&show_icons=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smithros&theme=calm&layout=compact)
+</br>
+I’m currently working on my diploma project - [booknet](https://github.com/smithros/booknet).
+</br>
+[![booknet/readme.md](https://github-readme-stats.vercel.app/api/pin/?username=smithros&repo=booknet)](https://github.com/smithros/booknet)
 
 ### Connect with me:
 [<img align="left" alt="smithros | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
