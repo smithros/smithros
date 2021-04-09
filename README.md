@@ -5,13 +5,14 @@ I'm a Java Developer from Kiev. Passionate about self-improvement and focused fo
 - 🤹🏽 I'm studying at the university.
 - 🔭 Working as a software engineer.
 
+I’m currently working on my diploma project - [booknet](https://github.com/smithros/booknet).
+</br>
+[![booknet/readme.md](https://github-readme-stats.vercel.app/api/pin/?username=smithros&repo=booknet&theme=calm)](https://github.com/smithros/booknet)
+
 ### Github stats:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=smithros&theme=calm&show_icons=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smithros&theme=calm&layout=compact)
 </br>
-I’m currently working on my diploma project - [booknet](https://github.com/smithros/booknet).
-</br>
-[![booknet/readme.md](https://github-readme-stats.vercel.app/api/pin/?username=smithros&repo=booknet)](https://github.com/smithros/booknet)
 
 ### Connect with me:
 [<img align="left" alt="smithros | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
