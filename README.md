@@ -2,7 +2,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=smithros.smithros" alt="visitor badge"/> 
 
 I'm a Java Developer from Kiev. Passionate about self-improvement and focused forward.
-- 🌱 I’m learning Java every day and try to use it more professionally and effectively.
+- 🌱 I’m learning different areas of programming every day.
 - 🤹🏽 I'm studying at the university.
 - 🔭 Working as a software engineer.
 
