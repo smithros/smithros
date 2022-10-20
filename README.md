@@ -1,7 +1,7 @@
 ### Hi there, I'm [smithros!](https://github.com/smithros) 👋.
 <img src="https://visitor-badge.laobi.icu/badge?page_id=smithros.smithros" alt="visitor badge"/> 
 
-I'm a Java Developer from Kiev. Passionate about self-improvement and focused forward.
+I'm a Java Developer from Kyiv. Passionate about self-improvement and focused forward.
 - 🌱 I’m learning different areas of programming every day.
 - 🤹🏽 I'm studying at the university.
 - 🔭 Working as a software engineer.
